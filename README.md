@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ### Lately
 
 Bunch of embedded projects I've been sitting on lately (keeping local). I'll start sharing more here on projects realted to that, and improving them over time as I go down the rabbit hole 😉. Low-level stuff is great, but need to get even lower. Need to know how the software acutally runs on the hardware, especially for where technology is and where it's heading...🧐
+
+## Of Interest 
+
+Check out https://github.com/gvnwltrs/ros2_webrtc_video_streamer periodically if your into ROS2 video streaming. Could use the help. It's WebRTC based. 
