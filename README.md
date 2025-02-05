@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Lately
+
+Bunch of embedded projects I've been sitting on lately (keeping local). I'll start sharing more here on projects realted to that, and improving them over time as I go down the rabbit hole 😉. Low-level stuff is great, but need to get even lower. Need to know how the software acutally runs on the hardware, especially for where technology is and where it's heading...🧐
