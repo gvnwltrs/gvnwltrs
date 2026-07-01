@@ -14,4 +14,4 @@ Not a religion, but a way of thinking/doing that cuts through the abstraction as
 
 All-in-all, I'm defining MY particular approach to writing software no matter if it's embedded, bare-metal, kernel space, or user space applications, but in all cases with a hardware level "awareness" that should hopefully produce more straight-to-the-point software implementations that are clear not only to the human minds that read the code, but also clearer to the CPU that has to deal with them. Hopefully in the coming months, I can share that pattern more. Until then, it's just what I'm doing locally so my repo's may not reflect all that is actually being done right now. 
 
-My definition of "good": How well does something align to it's intended purpose or pre-existing design. 
+My definition of "good": How well does something align to its intended purpose or pre-existing design. 
